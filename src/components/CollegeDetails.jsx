@@ -29,11 +29,11 @@ const CollegeDetails = () => {
           <h1 className="text-4xl font-bold ">{college_name}</h1>
           <p className="text-xl font-bold my-2">Rating: {rating}</p>
           <p className="text-xl font-bold my-2">
-            Admission Start Date:{" "}
+            Admission Start Date:
             <span className="font-semibold">{admission_start}</span>
           </p>
           <p className="text-xl font-bold my-2">
-            Admission End Date:{" "}
+            Admission End Date:
             <span className="font-semibold">{admission_end}</span>
           </p>
           <p className="text-xl font-bold my-2">
