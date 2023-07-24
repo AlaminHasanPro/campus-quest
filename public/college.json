@@ -1,0 +1,387 @@
+[
+  {
+    "college_name": "University of Excellence",
+    "address": "123 Main Street, Cityville, State, Country",
+    "website": "https://www.xyzuniversity.edu",
+    "collegeImage": "https://i.ibb.co/GMCcZdL/1912-Vin-Uni-Campus-800x533.jpg",
+    "number_of_research": "630",
+    "rating": "4",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the university's official website. The application deadline for the fall semester is August 15, 2023, and for the spring semester, it is December 15, 2023. Applicants are required to submit their academic transcripts, letters of recommendation, a statement of purpose, and any standardized test scores.",
+    "events": [
+      "Freshers Welcome Party",
+      "Annual Cultural Fest",
+      "Career Fair",
+      "Science Exhibition"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Annual Cultural Fest",
+        "date": "2023-08-15",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image_url": "https://www.example.com/events/cultural_fest.jpg"
+      },
+      {
+        "event_name": "Tech Expo",
+        "date": "2023-11-20",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image_url": "https://www.example.com/events/tech_expo.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Advancements in Renewable Energy",
+        "author": "John Doe",
+        "publication_date": "2023-04-01",
+        "research_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image_url": "https://www.example.com/research/renewable_energy.jpg"
+      },
+      {
+        "research_title": "AI in Healthcare",
+        "author": "Jane Smith",
+        "publication_date": "2023-06-15",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image_url": "https://www.example.com/research/ai_healthcare.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Football",
+      "Basketball",
+      "Swimming",
+      "Tennis",
+      "Track and Field",
+      "Volleyball"
+    ]
+  },
+  {
+    "college_name": "Harmony University",
+    "address": "456 Harmony Avenue, Townsville, State, Country",
+    "website": "https://www.harmonyuni.edu",
+    "collegeImage": "https://i.ibb.co/NjgFHY1/harmony-university.jpg",
+    "number_of_research": "820",
+    "rating": "4.5",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the university's official website. The application deadline for the fall semester is September 30, 2023. Applicants are required to submit their academic transcripts, letters of recommendation, a personal statement, and standardized test scores.",
+    "events": [
+      "Orientation Week",
+      "Harmony Fest",
+      "International Food Fair",
+      "Sports Carnival"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Orientation Week",
+        "date": "2023-09-15",
+        "description": "Join us for a week full of fun activities and events to help you get acquainted with university life! Meet new friends, explore campus, and start your journey at Harmony University.",
+        "image_url": "https://i.ibb.co/PZ7qTTs/orientation-week.jpg"
+      },
+      {
+        "event_name": "Harmony Fest",
+        "date": "2023-10-20",
+        "description": "Experience the diversity of talents and cultures at our annual Harmony Fest! Enjoy live performances, art exhibits, and delicious cuisines from around the world.",
+        "image_url": "https://i.ibb.co/sHmZRVs/harmony-fest.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Sustainable Urban Planning",
+        "author": "Emily Johnson",
+        "publication_date": "2023-05-10",
+        "research_description": "Explore innovative approaches to urban planning that promote sustainability, green spaces, and efficient resource management.",
+        "image_url": "https://i.ibb.co/z7jVWk3/sustainable-urban-planning.jpg"
+      },
+      {
+        "research_title": "Advancements in Robotics",
+        "author": "Michael Chen",
+        "publication_date": "2023-07-25",
+        "abstract": "Discover the latest breakthroughs in robotics technology and their applications in various industries, from healthcare to manufacturing.",
+        "image_url": "https://i.ibb.co/TTyCtLq/robotics-advancements.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Soccer",
+      "Basketball",
+      "Swimming",
+      "Tennis",
+      "Track and Field",
+      "Badminton"
+    ]
+  },
+  {
+    "college_name": "Global Innovation Institute",
+    "address": "789 Innovation Road, Innovation City, State, Country",
+    "website": "https://www.globalinnovation.edu",
+    "collegeImage": "https://i.ibb.co/fgrxQvB/global-innovation-institute.jpg",
+    "number_of_research": "1200",
+    "rating": "4.8",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the university's official website. The application deadline for the fall semester is November 30, 2023. Applicants are required to submit their academic records, letters of recommendation, a personal statement, and relevant test scores.",
+    "events": [
+      "Innovation Summit",
+      "Entrepreneurship Week",
+      "Tech Showcase",
+      "Global Cultural Exchange"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Innovation Summit",
+        "date": "2024-01-15",
+        "description": "Join us at the Innovation Summit to witness groundbreaking ideas, technologies, and solutions that are shaping the future of various industries.",
+        "image_url": "https://i.ibb.co/dtyPYYk/innovation-summit.jpg"
+      },
+      {
+        "event_name": "Tech Showcase",
+        "date": "2024-03-20",
+        "description": "Experience the cutting-edge technologies developed by our students and faculty at the Tech Showcase. Interact with innovators and explore the possibilities of tomorrow.",
+        "image_url": "https://i.ibb.co/GtkgnV0/tech-showcase.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "AI Ethics and Governance",
+        "author": "Sophia Lee",
+        "publication_date": "2023-06-30",
+        "research_description": "Examine the ethical challenges and governance frameworks associated with the development and deployment of artificial intelligence.",
+        "image_url": "https://i.ibb.co/mCPJnRW/ai-ethics-governance.jpg"
+      },
+      {
+        "research_title": "Green Technologies for Sustainable Cities",
+        "author": "David Williams",
+        "publication_date": "2023-08-20",
+        "abstract": "Explore the implementation of green technologies and urban planning strategies to create sustainable and eco-friendly cities.",
+        "image_url": "https://i.ibb.co/z4mFJxW/green-technologies.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Football",
+      "Basketball",
+      "Swimming",
+      "Tennis",
+      "Athletics",
+      "Cricket"
+    ]
+  },
+  {
+    "college_name": "Art & Design Academy",
+    "address": "101 Creative Lane, Art City, State, Country",
+    "website": "https://www.artanddesignacademy.edu",
+    "collegeImage": "https://i.ibb.co/7RdpTmN/art-and-design-academy.jpg",
+    "number_of_research": "350",
+    "rating": "4.6",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the academy's official website. The application deadline for the next academic year is February 28, 2024. Applicants are required to submit their portfolio, letters of recommendation, a statement of purpose, and a creative assignment.",
+    "events": [
+      "Annual Art Exhibition",
+      "Design Week",
+      "Creative Talks",
+      "Fashion Show"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Annual Art Exhibition",
+        "date": "2024-03-15",
+        "description": "Immerse yourself in the world of art at our Annual Art Exhibition! View stunning artworks from our talented students and faculty, ranging from traditional to contemporary styles.",
+        "image_url": "https://i.ibb.co/FnyKDvz/art-exhibition.jpg"
+      },
+      {
+        "event_name": "Fashion Show",
+        "date": "2024-04-25",
+        "description": "Witness the creativity and innovation of our budding fashion designers at the Fashion Show. Experience unique designs and the latest trends on the runway.",
+        "image_url": "https://i.ibb.co/4TD0wZv/fashion-show.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Innovations in Visual Arts",
+        "author": "Olivia Turner",
+        "publication_date": "2023-07-15",
+        "research_description": "Explore the innovative techniques and approaches used by contemporary visual artists to express their creativity and emotions.",
+        "image_url": "https://i.ibb.co/FJVJLwF/innovations-in-visual-arts.jpg"
+      },
+      {
+        "research_title": "Sustainable Fashion Design",
+        "author": "Ethan Martin",
+        "publication_date": "2023-09-10",
+        "abstract": "Investigate sustainable practices and materials used in the fashion industry to create eco-friendly and socially responsible clothing.",
+        "image_url": "https://i.ibb.co/C8FNTH3/sustainable-fashion-design.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Table Tennis",
+      "Swimming",
+      "Athletics",
+      "Badminton",
+      "Yoga",
+      "Dance"
+    ]
+  },
+  {
+    "college_name": "Business Institute of Excellence",
+    "address": "555 Commerce Street, Businessville, State, Country",
+    "website": "https://www.businessinstitute.edu",
+    "collegeImage": "https://i.ibb.co/mX2rcdz/business-institute.jpg",
+    "number_of_research": "450",
+    "rating": "4.3",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the institute's official website. The application deadline for the next academic year is January 31, 2024. Applicants are required to submit their academic transcripts, letters of recommendation, a statement of purpose, and relevant test scores.",
+    "events": [
+      "Business Symposium",
+      "Entrepreneurship Conference",
+      "Leadership Summit",
+      "Networking Mixer"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Business Symposium",
+        "date": "2024-02-20",
+        "description": "Participate in insightful panel discussions and workshops at the Business Symposium. Gain knowledge from industry leaders and explore current business trends.",
+        "image_url": "https://i.ibb.co/zPcQV6y/business-symposium.jpg"
+      },
+      {
+        "event_name": "Entrepreneurship Conference",
+        "date": "2024-03-25",
+        "description": "Learn from successful entrepreneurs and innovators at the Entrepreneurship Conference. Discover the strategies and tools for building a successful startup.",
+        "image_url": "https://i.ibb.co/vh1JNHR/entrepreneurship-conference.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Innovative Marketing Strategies",
+        "author": "Alex Ramirez",
+        "publication_date": "2023-08-20",
+        "research_description": "Investigate the latest marketing strategies used by businesses to attract and retain customers in the digital age.",
+        "image_url": "https://i.ibb.co/qxFWbyG/innovative-marketing-strategies.jpg"
+      },
+      {
+        "research_title": "Ethical Leadership in Business",
+        "author": "Sarah Johnson",
+        "publication_date": "2023-10-10",
+        "abstract": "Explore the role of ethical leadership in driving business success, fostering employee engagement, and promoting social responsibility.",
+        "image_url": "https://i.ibb.co/GxLKG5N/ethical-leadership.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Football",
+      "Basketball",
+      "Swimming",
+      "Tennis",
+      "Cricket",
+      "Golf"
+    ]
+  },
+  {
+    "college_name": "Health Sciences University",
+    "address": "777 Health Avenue, Medtown, State, Country",
+    "website": "https://www.healthsciencesuni.edu",
+    "collegeImage": "https://i.ibb.co/gDBcMf2/health-sciences-university.jpg",
+    "number_of_research": "950",
+    "rating": "4.7",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the university's official website. The application deadline for the next academic year is February 28, 2024. Applicants are required to submit their academic records, letters of recommendation, a personal statement, and relevant test scores.",
+    "events": [
+      "Medical Symposium",
+      "Health Fair",
+      "Research Colloquium",
+      "Community Outreach"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Medical Symposium",
+        "date": "2024-03-10",
+        "description": "Attend the Medical Symposium to hear from renowned medical professionals and researchers. Explore the latest advancements in healthcare and medical technologies.",
+        "image_url": "https://i.ibb.co/zFCRHPW/medical-symposium.jpg"
+      },
+      {
+        "event_name": "Health Fair",
+        "date": "2024-04-15",
+        "description": "Join us at the Health Fair for interactive health screenings, informative workshops, and expert advice on maintaining a healthy lifestyle.",
+        "image_url": "https://i.ibb.co/bWjttjH/health-fair.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Advancements in Genetic Research",
+        "author": "Dr. Emma Adams",
+        "publication_date": "2023-09-25",
+        "research_description": "Discover the latest breakthroughs in genetic research and their implications for understanding and treating genetic disorders.",
+        "image_url": "https://i.ibb.co/DbJy9qJ/genetic-research.jpg"
+      },
+      {
+        "research_title": "Mental Health Interventions",
+        "author": "Dr. Michael Roberts",
+        "publication_date": "2023-11-15",
+        "abstract": "Explore evidence-based interventions and therapies for promoting mental health and well-being in diverse populations.",
+        "image_url": "https://i.ibb.co/tcrvjyX/mental-health-interventions.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Football",
+      "Basketball",
+      "Swimming",
+      "Tennis",
+      "Yoga",
+      "Pilates"
+    ]
+  },
+  {
+    "college_name": "Environmental Studies Institute",
+    "address": "888 Nature Lane, Eco City, State, Country",
+    "website": "https://www.environmentalinstitute.edu",
+    "collegeImage": "https://i.ibb.co/c3yyxDn/environmental-studies-institute.jpg",
+    "number_of_research": "550",
+    "rating": "4.4",
+    "admission_start": "2023-6-31",
+    "admission_end": "2023-7-31",
+    "admissionProcess": "Prospective students can apply online through the institute's official website. The application deadline for the next academic year is April 30, 2024. Applicants are required to submit their academic transcripts, letters of recommendation, a statement of purpose, and relevant test scores.",
+    "events": [
+      "Environmental Summit",
+      "Eco-Conscious Fair",
+      "Green Technology Workshop",
+      "Wildlife Conservation Day"
+    ],
+    "upcoming_events": [
+      {
+        "event_name": "Environmental Summit",
+        "date": "2024-05-15",
+        "description": "Participate in discussions about pressing environmental issues and potential solutions at the Environmental Summit. Engage with experts and activists working towards a sustainable future.",
+        "image_url": "https://i.ibb.co/5cXJnXX/environmental-summit.jpg"
+      },
+      {
+        "event_name": "Eco-Conscious Fair",
+        "date": "2024-06-20",
+        "description": "Explore eco-friendly products and initiatives at the Eco-Conscious Fair. Discover ways to lead a more sustainable lifestyle.",
+        "image_url": "https://i.ibb.co/3m3GHdB/eco-conscious-fair.jpg"
+      }
+    ],
+    "research_history": [
+      {
+        "research_title": "Climate Change Mitigation Strategies",
+        "author": "Dr. Emily Collins",
+        "publication_date": "2023-10-15",
+        "research_description": "Explore strategies to mitigate the impacts of climate change, including renewable energy adoption and carbon offset projects.",
+        "image_url": "https://i.ibb.co/ZJvFvVS/climate-change-mitigation.jpg"
+      },
+      {
+        "research_title": "Biodiversity Conservation",
+        "author": "Dr. James Anderson",
+        "publication_date": "2024-01-10",
+        "abstract": "Examine the importance of biodiversity conservation and its role in maintaining ecosystem balance and resilience.",
+        "image_url": "https://i.ibb.co/c3qN1Tq/biodiversity-conservation.jpg"
+      }
+    ],
+    "sports_categories": [
+      "Hiking",
+      "Swimming",
+      "Rock Climbing",
+      "Yoga",
+      "Cycling",
+      "Kayaking"
+    ]
+  }
+]
