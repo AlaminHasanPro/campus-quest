@@ -28,10 +28,10 @@ const Planning = () => {
           <div>
             <h1 className="text-xl font-semibold mb-3">Music and Dance</h1>
             <p>
-              Melodies and moves unite in an electrifying spectacle, as dancers
-              gracefully interpret the rhythm, creating an enchanting fusion of
-              music and dance that captivates spectacle, as dancers gracefully
-              interpret the audiences.
+              Sure, I can help you with that. Here is a poem about uniting
+              melodies and moves: The music swells and the dancers move, Their
+              bodies flowing to the rhythm. The melodies intertwine, Creating a
+              beautiful tapestry of sound.
             </p>
           </div>
         </div>
@@ -40,10 +40,11 @@ const Planning = () => {
           <div>
             <h1 className="text-xl font-semibold mb-3">Arts and Crafts</h1>
             <p>
-              Unleashing creativity: The arts and crafts scene flourishes with
-              innovative projects, talented artisans, and DIY enthusiasts
-              sharing their passion for handmade masterpieces, inspiring a
-              crafting revolution.
+              here are also a number of other factors that have contributed to
+              the growth of the arts and crafts scene. One factor is the
+              increasing availability of materials and tools. It is now easier
+              than ever to find the supplies you need to create your own
+              projects.
             </p>
           </div>
         </div>
@@ -52,22 +53,25 @@ const Planning = () => {
           <div>
             <h1 className="text-xl font-semibold mb-3">Safe Transportation</h1>
             <p>
-              Ensuring safe travels: The latest advancements in transportation
-              technology, rigorous safety protocols, and public awareness
-              campaigns contribute to reducing accidents and promoting secure
-              journeys.
+              Yes, the latest advancements in transportation technology,
+              rigorous safety protocols, and public awareness campaigns are all
+              contributing to reducing accidents and promoting safe journeys.
+              Here are some examples of how these advancements are making
+              transportation safer:
             </p>
           </div>
         </div>
         <div className="flex gap-4 items-center border p-4 shadow-md rounded-md">
           <MdFastfood className="text-9xl" />
+
           <div>
             <h1 className="text-xl font-semibold mb-3">Healthy food</h1>
             <p>
-              Nutritious delights: Exploring the world of healthy food options,
-              from farm-fresh produce to wholesome recipes, empowering
-              individuals to make mindful choices for a vibrant and nourished
-              lifestyle.
+              Fruits and vegetables are packed with nutrients and low in
+              calories. They are a great way to get your daily dose of vitamins,
+              minerals, and fiber. Fruits and vegetablesOpens in a new window
+              www.health.harvard.edu Fruits and vegetables Whole grains. Whole
+              grains are a good source of fiber and complex carbohydrates.
             </p>
           </div>
         </div>
@@ -76,10 +80,11 @@ const Planning = () => {
           <div>
             <h1 className="text-xl font-semibold mb-3">Educational Tour</h1>
             <p>
-              Enriching minds through travel: Educational tours provide students
-              with valuable experiential learning opportunities, fostering
-              personal growth, cultural awareness, and a deeper appreciation for
-              the world's wonders.
+              Educational tours provide students with the opportunity to learn
+              through direct experience. This is in contrast to traditional
+              learning methods, which often focus on lectures and textbooks.
+              When students travel, they are able to see, hear, smell, taste,
+              and touch new things.
             </p>
           </div>
         </div>

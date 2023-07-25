@@ -11,7 +11,10 @@ const GraduatedGallery = () => {
     },
   };
 
-  fetch("https://campus-quest-six.vercel.app/graduatedGallery", options)
+  fetch(
+    "https://campus-quest-server-kappa.vercel.app/graduatedGallery",
+    options
+  )
     .then((response) => response.json())
     .then((response) => setGallery(response))
     .catch((err) => console.error(err));

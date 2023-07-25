@@ -4,8 +4,8 @@ import { BsFacebook, BsLinkedin, BsTwitter, BsInstagram } from "react-icons/bs";
 
 const Footer = () => {
   return (
-    <div className="w-full bg-[#ebfcff] mt-32">
-      <div className="max-w-[1240px] mx-auto px-3 text-gray-600">
+    <div className="w-full bg-[#17140b] mt-32">
+      <div className="max-w-[1240px] mx-auto px-3 text-white">
         <section className="grid md:grid-cols-3 gap-8 mb-10 px-6">
           <div className="mt-5">
             <div className="flex items-center gap-2">

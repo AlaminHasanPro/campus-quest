@@ -11,7 +11,7 @@ const TopCollege = () => {
     },
   };
 
-  fetch("https://campus-quest-six.vercel.app/colleges2", options)
+  fetch("https://campus-quest-server-kappa.vercel.app/colleges2", options)
     .then((response) => response.json())
     .then((response) => setColleges(response))
     .catch((err) => console.error(err));

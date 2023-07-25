@@ -11,7 +11,7 @@ const Colleges = () => {
     },
   };
 
-  fetch("https://campus-quest-six.vercel.app/colleges", options)
+  fetch("https://campus-quest-server-kappa.vercel.app/colleges", options)
     .then((response) => response.json())
     .then((response) => setColleges(response))
     .catch((err) => console.error(err));

@@ -26,7 +26,7 @@ const TopCollegeCard = ({ college }) => {
         </p>
         <p>Research Center: {number_of_research}</p>
       </div>
-      <button className="text-orange-500block mx-auto my-6 w-full p-3 rounded-md hover:bg-[#0b96ac] duration-300 text-white font-semibold">
+      <button className="text-orange-500block mx-auto my-6 w-full p-3 rounded-md bg-orange-500 hover:bg-[#0b96ac] duration-300 text-white font-semibold">
         <Link to={`/colleges/${_id}`}>View Details</Link>
       </button>
     </div>

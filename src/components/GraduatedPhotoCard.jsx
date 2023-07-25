@@ -3,7 +3,7 @@ const GraduatedPhotoCard = ({ photo }) => {
   return (
     <div>
       <div>
-        <img className="rounded-md" src={graduation_image} alt="" />
+        <img className="rounded-md h-[300px] " src={graduation_image} alt="" />
         <h1 className="mt-3 text-xl font-semibold">
           Institute: {collage_name}
         </h1>
