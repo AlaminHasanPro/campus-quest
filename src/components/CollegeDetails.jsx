@@ -4,16 +4,15 @@ import { useParams } from "react-router-dom";
 const CollegeDetails = () => {
   const [collegeInfo, setCollegeInfo] = useState({});
   const {
-    _id,
     college_name,
     collegeImage,
     admission_start,
     admission_end,
     rating,
     number_of_research,
-
     admissionProcess,
   } = collegeInfo;
+
   const { id } = useParams();
 
   useEffect(() => {
@@ -47,6 +46,7 @@ const CollegeDetails = () => {
             <span className="font-bold">Admission Process:</span> <br />
             {admissionProcess}
           </p>
+          
         </div>
       </div>
     </div>
