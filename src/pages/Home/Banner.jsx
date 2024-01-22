@@ -1,7 +1,8 @@
 const Banner = () => {
 
-  
 
+
+  
   return (
     <div
       className="bg-[url('https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg')]
